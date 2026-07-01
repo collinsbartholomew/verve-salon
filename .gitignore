@@ -1,2 +1,8 @@
 .vercel
 .env*
+
+# dependencies
+node_modules
+.next
+node-modules
+.next

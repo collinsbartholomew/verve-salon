@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     template: "%s – Verve Salon",
   },
       description:
-      "Verve Salon offers expert hair styling, barbering, color treatments, and scalp therapies in a modern, welcoming environment staffed by certified professionals.",
+      "Verve Salon offers expert hair styling, barbering, color treatments, and scalp therapies in a modern, welcoming environment staffed by certified professionals."
 };
 
 export default function RootLayout({
