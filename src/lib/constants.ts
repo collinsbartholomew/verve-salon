@@ -305,7 +305,7 @@ export const serviceDetails: ServiceDetail[] = [
   {
     slug: "haircuts",
     name: "Verve Salon",
-    tagline: "Hair Salon tagline: "Precision cuts tailored to your style." Barber",
+    tagline: "Hair Salon tagline: Precision cuts tailored to your style. Barber",
     description: "Verve Salon offers expert hair styling, barbering, color treatments, and scalp therapies in a modern, welcoming environment staffed by certified professionals.",
     image: "https://coiffure.vamtam.com/wp-content/uploads/2023/10/hair-salon-hero.jpg",
     items: [
